@@ -1,1 +1,2 @@
 # Southwest_Airlines_Web_Scraping
+Inspired of my internship at Southwest Airlines and my interest in airlines, so I want to do some projects about the airline industry, finding it inteteresting and beneficial for my Python EDA and ML skills. Moreover, I also learned a lot about the Customer Experience and Network Planning Departments, from the way they analyzed customer feedbacks to route planing!
